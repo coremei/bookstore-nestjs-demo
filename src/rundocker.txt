@@ -1,0 +1,3 @@
+run -d -p 5432:5432 --name my-postgress -e admin postgress
+ff57bcbc3d25
+docker start ff57bcbc3d25 
